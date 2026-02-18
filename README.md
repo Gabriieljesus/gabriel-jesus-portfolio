@@ -49,7 +49,7 @@ Estou em constante evolução, buscando sempre aprender novas tecnologias e boas
 ## 🌐 Deploy
 
 🔗 Acesse o projeto online:  
-(Coloque aqui o link quando subir na Vercel)
+https://gabriel-jesus-portfoliodev.vercel.app/
 
 ---
 
