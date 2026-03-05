@@ -1,16 +1,69 @@
-# React + Vite
+# 💼 Gabriel Jesus | Desenvolvedor Full Stack
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao meu portfólio! 🚀  
+Este projeto foi desenvolvido com o objetivo de apresentar minhas habilidades, projetos e evolução como Desenvolvedor Full Stack.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧑‍💻 Sobre mim
 
-## React Compiler
+Sou Desenvolvedor Full Stack, apaixonado por tecnologia e por criar aplicações modernas, responsivas e funcionais.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Tenho experiência tanto no Front-End quanto no Back-End, desenvolvendo interfaces interativas e também criando APIs e lógica de servidor.
 
-## Expanding the ESLint configuration
+Estou em constante evolução, buscando sempre aprender novas tecnologias e boas práticas de desenvolvimento.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Tecnologias Utilizadas
+
+### 🎨 Front-End
+- React
+- JavaScript
+- Styled-Components
+- HTML5
+- CSS3
+
+### ⚙️ Back-End
+- Node.js
+- Express
+
+### 🛠 Ferramentas
+- Git
+- GitHub
+- Vercel
+
+---
+
+## 📂 Funcionalidades do Projeto
+
+✔️ Página Home  
+✔️ Página About  
+✔️ Página de Projetos  
+✔️ Página de Contato com envio de e-mail  
+✔️ Layout Responsivo  
+✔️ Efeitos de Hover e navegação ativa  
+
+---
+
+## 🌐 Deploy
+
+🔗 Acesse o projeto online:  
+https://gabriel-jesus-portfoliodev.vercel.app/
+
+---
+
+## ⚙️ Como rodar o projeto localmente
+
+```bash
+# Clonar o repositório
+git clone https://github.com/seuusuario/nome-do-repositorio.git
+
+# Entrar na pasta
+cd nome-do-repositorio
+
+# Instalar dependências
+npm install
+
+# Rodar o projeto
+npm run dev
