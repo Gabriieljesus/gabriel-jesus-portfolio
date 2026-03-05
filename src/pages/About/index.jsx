@@ -6,7 +6,8 @@ import {
   ImageContent,
   MoreContent,
   SkillsContainer,
-  SkillsList
+  SkillsList,
+  ContainerImage
 } from "./styles";
 
 import Header from "../../components/Hearder";
@@ -71,9 +72,12 @@ function About() {
           </Button>
         </TextContent>
 
-        <ImageContent>
-          <img src={profileimg} alt="Foto de perfil Gabriel de Jesus" />
-        </ImageContent>
+        <ContainerImage>
+          <ImageContent>
+            <img src={profileimg} alt="Foto de perfil Gabriel de Jesus" />
+          </ImageContent>
+        </ContainerImage>
+        
       </Content>
       <Footer />
     </AboutContainer>

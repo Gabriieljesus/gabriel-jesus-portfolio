@@ -160,6 +160,7 @@ export const TechList = styled.div`
   justify-content: center;
   flex-wrap: wrap;
   gap: 8px;
+  margin-top: 5px;
   margin-bottom: 20px;
 
   span {

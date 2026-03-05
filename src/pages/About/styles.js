@@ -12,7 +12,7 @@ export const AboutContainer = styled.section`
 
 export const Content = styled.div`
   display: flex;
-  align-items: center; /* Mudei para center para alinhar melhor */
+  align-items: flex-start; /* Mudei para center para alinhar melhor */
   justify-content: space-between;
   padding: 100px 10%;
   margin-top: 80px;
@@ -125,9 +125,23 @@ export const SkillsList = styled.div`
   }
 `;
 
+export const ContainerImage = styled.div`
+  align-self: flex-start;
+  position: sticky;
+  top: 100px;
+  flex-shrink: 0;
+
+  @media (max-width: 900px) {
+    align-self: center;
+    position: relative;
+    top: 0;
+  }
+`;
+
 export const ImageContent = styled.div`
   display: flex;
   justify-content: center;
+  align-self: center;
   margin-right: 0; 
   position: relative;
 

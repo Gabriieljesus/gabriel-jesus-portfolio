@@ -8,7 +8,7 @@ export const projects = [
     ],
     description:
       "Sistema de cadastro de usuários com validação de formulário e layout responsivo.",
-    techs: ["Node", "React", "JavaScript"],
+    techs: ["Node", "Express", "React"],
     repository: "https://github.com/Gabriieljesus/Desafio-tecnico-Cadastro-de-Usuarios"
   },
   {
@@ -26,7 +26,7 @@ export const projects = [
     ],
     description:
       "Aplicação web de delivery que simula uma hamburgueria online.",
-    techs: ["React", "JavaScript", "Node", "Express", "MongoDB"],
+    techs: ["React", "Node", "Express", "PostgresSQL", "MongoDB"],
     repository: "https://github.com/Gabriieljesus/Devburger-Interface" 
   }
 ];
