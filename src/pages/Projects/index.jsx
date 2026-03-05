@@ -56,6 +56,7 @@ function Projects() {
                 <img
                   src={project.images[0]}
                   alt={project.title}
+                  loading="lazy"
                 />
               </ProjectImage>
 
