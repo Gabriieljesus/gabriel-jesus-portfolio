@@ -47,6 +47,8 @@ function About() {
                   <span>TypeScript</span>
                   <span>Node.js</span>
                   <span>Express</span>
+                  <span>Fastify</span>
+                  <span>PostgreSQL</span>
                   <span>MongoDB</span>
                   <span>Git</span>
                   <span>GitHub</span>
