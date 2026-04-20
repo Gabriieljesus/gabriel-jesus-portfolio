@@ -28,5 +28,20 @@ export const projects = [
       "Aplicação web de delivery que simula uma hamburgueria online.",
     techs: ["React", "Node", "Express", "PostgresSQL", "MongoDB"],
     repository: "https://github.com/Gabriieljesus/Devburger-Interface" 
+  },
+  {
+    id: 3,
+    title: "DevBills",
+    images: [
+      "/projects/dev-bills/1.png",
+      "/projects/dev-bills/2.png",
+      "/projects/dev-bills/3.png",
+      "/projects/dev-bills/4.png",
+      "/projects/dev-bills/5.png",
+    ],
+    description:
+      "Aplicação web de controle financeiro pessoal, permitindo aos usuários gerenciar suas despesas e receitas de forma eficiente.",
+    techs: ["TypeScript", "React", "Node", "Firebase"],
+    live: "https://devbills.vercel.app/",
   }
 ];

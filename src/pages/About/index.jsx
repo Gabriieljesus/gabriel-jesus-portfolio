@@ -50,6 +50,8 @@ function About() {
                   <span>Fastify</span>
                   <span>PostgreSQL</span>
                   <span>MongoDB</span>
+                  <span>Firebase</span>
+                  <span>Tailwind CSS</span>
                   <span>Git</span>
                   <span>GitHub</span>
                 </SkillsList>

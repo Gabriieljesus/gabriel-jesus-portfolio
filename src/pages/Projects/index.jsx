@@ -119,6 +119,16 @@ function Projects() {
                   </MoreButton>
                 )}
 
+                {selectedProject.live && (
+                  <MoreButton 
+                    onClick={() => 
+                      window.open(selectedProject.live, "_blank")
+                    }
+                  >
+                    Acessar Online
+                  </MoreButton>
+                )}
+
                 <MoreButton onClick={() => setOpenProject(null)}>
                   Fechar
                 </MoreButton>
